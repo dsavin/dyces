@@ -38,7 +38,7 @@
     "request": "^2.85.0",
     "request-promise": "^4.2.2",
     "serve-favicon": "^2.4.5",
-    "socket.io": "^2.1.0",
+    "socket.io": "^2.4.0",
     "tslint": "^5.16.0",
     "twilio": "^3.33.2",
     "typescript": "^3.4.5",
